@@ -1,0 +1,12 @@
+/Users/giovanni/Projects/Rust/server/target/debug/deps/enumset-26f74073b3fbe4af.d: /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/lib.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/macros.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/derive.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/mod.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/array.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/primitive.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/set.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/traits.rs
+
+/Users/giovanni/Projects/Rust/server/target/debug/deps/libenumset-26f74073b3fbe4af.rmeta: /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/lib.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/macros.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/derive.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/mod.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/array.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/primitive.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/set.rs /Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/traits.rs
+
+/Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/lib.rs:
+/Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/macros.rs:
+/Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/derive.rs:
+/Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/mod.rs:
+/Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/array.rs:
+/Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/primitive.rs:
+/Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/set.rs:
+/Users/giovanni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/traits.rs:

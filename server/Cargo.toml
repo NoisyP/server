@@ -1,0 +1,8 @@
+[package]
+name = "server_http"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mysql = "26.0.1"
+rust-ini = "0.21.3"
